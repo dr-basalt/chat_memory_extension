@@ -1,1 +1,1 @@
-
+# OCR handling via pytesseract
